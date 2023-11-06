@@ -15042,6 +15042,9 @@
         <layout>Task-Formato de tareas</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestObject__c-TestLayout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-Formato de usuario</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -15088,6 +15091,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>WorkThanks-Thanks Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>testing__c-testing Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>false</allowCreate>
